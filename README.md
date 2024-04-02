@@ -1,21 +1,16 @@
 # black-mirror
 
-DESENVOLVA UM PROGRAMA EM QUE O USUÁRIO IRÁ INFORMAR UMA PERGUNTA
-(UTILIZANDO EXATAMENTE AS PERGUNTAS DO QUESTIONÁRIO ANTERIOR) 
-E O SISTEMA DEVERÁ APRESENTAR A RESPOSTA.
+Desenvolva um programa em que o usuário irá informar uma pergunta
+(utilizando exatamente as perguntas do questionário) 
+e o sistema deverá apresentar a resposta.
 
 
 Peguntas:
 
-1- QUAL É O NOME COMPLETO DA PROTAGONISTA DO EPISÓDIO?</br>
-2- QUEM DIRIGE A VIDA DE JOAN EM TEMPO REAL PARA UMA SÉRIE DE
-TELEVISÃO?</br>
-3- QUAL É O NOME DO SERVIÇO DE STREAMING FICTÍCIO QUE PARODIA
-A NETFLIX NO EPISÓDIO?</br>
-4- COMO JOAN DESCOBRE A EXISTÊNCIA DA SÉRIE SOBRE SUA VIDA?</br>
-5- QUAL É A REAÇÃO INICIAL DE JOAN AO DESCOBRIR A SÉRIE E O QUE
-ELA FAZ EM RESPOSTA?</br>
-6- QUAIS SÃO OS TEMAS PRINCIPAIS EXPLORADOS NESTE EPISÓDIO DE
-BLACK MIRROR?</br>
-7- O EPISÓDIO TERMINA DE MANEIRA TÍPICA PARA A SÉRIE BLACK
-MIRROR? EXPLIQUE.
+1- Qual é o nome completo da protagonista do episódio?</br></br>
+2- Quem dirige a vida de Joan em tempo real para uma série de televisão?</br></br>
+3- Qual é o nome do serviço de streaming fictício que parodia a Netflix no episódio?</br></br>
+4- Como Joan descobre a existência da série sobre a sua vida?</br></br>
+5- Qual é a reação inicial de Joan ao descobrir a série e o que ela faz em resposta?</br></br>
+6- Quais são os temas principais explorados neste episódio de Black Mirror?</br></br>
+7- O episódio termina de maneira típica para a série Black Mirror? Explique.
